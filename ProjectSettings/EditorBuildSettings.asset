@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1 parte.unity
+    guid: 8a74dcd85f5238a408710fb4b0a668d2
+  - enabled: 1
+    path: Assets/Scenes/2 parte.unity
+    guid: fbe00ad17c9564d4fbf40010bdc4d666
+  - enabled: 1
+    path: Assets/Scenes/3 parte.unity
+    guid: 32646ef4168c9e84b923846d16a19aa3
+  - enabled: 1
+    path: Assets/Scenes/4 parte.unity
+    guid: 481bc4611b2b97f46bd52bfa1c3a13d8
+  - enabled: 1
+    path: Assets/Scenes/5 parte.unity
+    guid: 7896e6647e3c3e840b33ccfd386e34bf
+  - enabled: 1
+    path: Assets/Scenes/6 parte.unity
+    guid: aacc6d423f9b6984ab8171840f2aabb1
+  - enabled: 1
+    path: Assets/Scenes/7 parte ad.unity
+    guid: 211fe98b71dda014c81acb721c7abc23
+  - enabled: 1
+    path: Assets/Scenes/mundo 2.unity
+    guid: 1f126e8c5c598d34b95e119f58900b08
+  - enabled: 1
+    path: Assets/Scenes/mundo 3.unity
+    guid: 65adec6932da9cc40a4f6233fcf270e7
+  - enabled: 1
+    path: Assets/Scenes/parte 8 fin juego.unity
+    guid: 8c7faff09980e0842854868e12eaac9d
+  m_configObjects: {}
